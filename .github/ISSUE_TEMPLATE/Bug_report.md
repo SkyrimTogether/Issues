@@ -6,7 +6,12 @@ about: Create a report to help us improve
 
 ## Description
 
-A clear and concise description of what the bug is.
+A clear and concise description of what the bug is, Include any formIDs relevant for us to use ie,
+
+Related formIDs|
+---------------|
+[Flames - 12FCD](http://en.uesp.net/wiki/Skyrim:Flames)|
+[Nazeem - 1A6A4](http://en.uesp.net/wiki/Skyrim:Nazeem)|
 
 ## Steps to reproduce
 
