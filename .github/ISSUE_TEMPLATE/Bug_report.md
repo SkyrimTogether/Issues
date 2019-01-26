@@ -21,6 +21,8 @@ How to reproduce this issue:
 2. Connect to the server.
 3. Crash.
 
+**Note**: Please attach the latest dump (**.dmp**) file, you can find it in **<Skyrim_Directory>/Data/Online**.
+
 ## Reproduction rate
 
 How many times can you reproduce it?
