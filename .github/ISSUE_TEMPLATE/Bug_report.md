@@ -49,5 +49,5 @@ Show us what happen.
 
 ## Final checks for the reporter
 
-[ ] I have browsed through the other issues and confirmed that this issue has not been reported already
-[ ] I made sure that I have applied the template for my bug report
+- [ ] I have browsed through the other issues and confirmed that this issue has not been reported already
+- [ ] I made sure that I have applied the template for my bug report
