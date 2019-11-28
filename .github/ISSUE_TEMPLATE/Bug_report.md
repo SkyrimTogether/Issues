@@ -58,7 +58,4 @@ Describe your expected result i.e. answer the question "What did you expect woul
 
 Show us what happened.
 
-## Final checks for the reporter
-
-- [ ] I have browsed through the other issues and confirmed that this issue has not been reported already
-- [ ] I made sure that I have applied the template for my bug report
+<!--- Please browsed through the other issues and confirmed that this issue has not been reported already. -->
