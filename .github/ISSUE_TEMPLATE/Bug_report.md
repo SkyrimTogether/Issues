@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help us improve Skyrim Together
 
 ---
 
@@ -15,21 +15,32 @@ Related formIDs|
 
 ## Steps to reproduce
 
-How to reproduce this issue:
+How to reproduce this issue. Be as specific as possible and try to only include instructions you believe are necessary to reproduce said issue, i.e.
 
 1. Start the game.
-2. Connect to the server.
-3. Crash.
+2. Load a saved game where your character is in Whiterun standing inside your house.
+3. Connect to the server.
+4. Exit your house.
+5. Quickly turn around and re-enter your house as soon as you are outside
+6. Game crashes
 
-**Note**: Please attach the latest dump (**.dmp**) file, you can find it in **<Skyrim_Directory>/Data/Online**.
+**Note**: Please attach the latest dump (**.dmp**) file, you can find it in **<Skyrim_Directory>/Data/Online**. If you believe this bug is related to a specific mod, try disabling that mod and reproducing the bug *before* reporting it - this is valuable information!
 
 ## Reproduction rate
 
-How many times can you reproduce it?
+Please check just _one_ of the following reproduction rates:
+
+- [ ] Consistent: I can reproduce this bug by following the steps to reproduce 100% of the time (*every time*)
+- [ ] Occasional: I can reproduce this bug by following the steps to reproduce around 50% of the time
+- [ ] Rare: I can reproduce this bug by following the steps to reproduce around 10% or less of the time
+
+<!---
+Friendly Tip: most bugs are in fact 100% reproducible - it's nailing down the precise reproduction steps that is the hard part! Bugs that are 80-100% reproducible will save the developers a lot of time and energy and they tend to get more attention too. If you have the time, try and figure out the exact reproduction steps and everybody will benefit. This text will not appear in the actual bug report but is visible to people creating new issues - feel free to remove it if you like.
+-->
 
 ## Expected result
 
-Describe your expected result.
+Describe your expected result i.e. answer the question "What did you expect would happen?"
 
 ## Your environment
 
@@ -45,7 +56,7 @@ Describe your expected result.
 
 ## Evidence (optional)
 
-Show us what happen.
+Show us what happened.
 
 ## Final checks for the reporter
 
